@@ -1,1 +1,7 @@
+Weblink:
+http://165.227.85.181/wine_site/app.php
 
+Output:	
+0	"https://wtfhw.us/wine_site/app.php?route=alltasters"
+1	"https://wtfhw.us/wine_site/app.php?route=taster_data"
+2	"https://wtfhw.us/wine_site/app.php?route=scale"
